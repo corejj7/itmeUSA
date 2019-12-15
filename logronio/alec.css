@@ -1,0 +1,291 @@
+body{
+  margin: 0;
+  padding: 0;
+ /* background: url(images.jpeg) no-repeat; */
+  background-size: cover;
+  background-color: white; 
+}
+.box{
+  width: 450px;
+  background-color: #efeeee;
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  font-family: 'Inter UI',sans-serif;
+}
+.box-img{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+.box h1{
+  font-size: 64px;
+  font-family: 'Averia Gruesa Libre',serif;
+  letter-spacing: 4px;
+  font-weight: 100;
+  color: #192735;
+}
+.box h5{
+  color: #192735;
+  font-size: 25px;
+  letter-spacing: 3px;
+  font-weight: 100;
+}
+.box p{
+  color: #192735;
+  font-size: 19px;
+  text-align: justify;
+  letter-spacing: 1px;
+  line-height: 30px
+
+
+
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+.box li{
+  display: inline-block;
+  margin: 6px;
+  list-style: none;
+}
+.box li a{
+  color: white;
+  text-decoration: none;
+  font-size: 60px;
+  transition: all ease-in-out 250ms;
+}
+.box li a:hover{
+  color: #192735;
+}
+h2{
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin-bottom: 16px;
+    margin-top: 80;
+  font-weight: 700;
+  font-family: 'Inter UI', sans-serif;
+  text-align: left;
+  color: #440BD4;
+  padding-left: 50px;
+  
+
+
+}
+h3{
+  font-size: 40px;
+  margin-bottom: 16px;
+  letter-spacing: 1px;
+  padding-left: 60px;
+  font-weight: 700;
+  font-family: 'Averia Gruesa Libre',serif;
+  text-align: left;
+  color:#192735;
+
+
+}
+.picturealec{
+  background-image: url("abc.jpg");
+
+  height: 500px;
+
+
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ul{
+  opacity: .8;
+  font-size: 20px;
+  letter-spacing: 1px;
+  padding-left: 60px;
+  font-weight: 300;
+  font-family: 'Century Gothic', sans-serif;
+  text-align: left;
+  color:#192735;
+}
+
+hr.line1 {
+  border: 2px solid black;
+}
+hr.line2 {
+  border-top: 1px dashed black;
+}
+}
+.boxer{
+ 
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  text-align: left;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+  font-family: 'Inter UI',sans-serif;
+}
+img{
+   width: 200px;
+  height: 200px;
+
+}
+h1{
+  font-size: 30px;
+   margin-top: 80;
+  margin-bottom: 80px;
+  letter-spacing: 1px; 
+  font-weight: 700;
+  font-family: 'Inter UI', sans-serif;
+  text-align: center;
+  color:#192735;
+}
+.works{
+  background-image: url("payease1.png");
+
+  height: 500px;
+
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+ 
+}
+.works2{
+  background-image: url("payease2.png");
+
+  height: 500px;
+
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+ 
+}
+.works3{
+  background-image: url("payease3.png");
+
+  height: 500px;
+
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+ 
+}
+.sms{
+  background-image: url("sms1.png");
+
+  height: 500px;
+
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+ 
+}
+.sms2{
+  background-image: url("sms2.png");
+
+  height: 500px;
+
+
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+ 
+}
+
+.sms3{
+  background-image: url("sms3.png");
+
+  height: 500px;
+
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+ 
+}
+.sms4{
+  background-image: url("sms4.png");
+
+  height: 500px;
+
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+ 
+}
+p{
+  opacity: .8;
+  color: #192735;
+  font-size: 19px;
+  text-align: center;
+   font-weight: 500;
+  letter-spacing: 0px;
+  line-height: 30px
+   margin-top: 80;
+  margin-bottom: 80px;
+
+
+
+}
+.lunar{
+  background-image: url("lunar.png");
+
+  height: 500px;
+
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+ 
+}
+.lunar2{
+  background-image: url("lunar2.png");
+
+  height: 500px;
+
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+ 
+}
+.lunar3{
+  background-image: url("lunar3.png");
+
+  height: 500px;
+
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+ 
+}
+.Luzviminda{
+  background-image: url("luzviminda.png");
+
+  height: 500px;
+
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+ 
+}
+.Luzviminda2{
+  background-image: url("luzviminda2.png");
+
+  height: 500px;
+
+  
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+ 
+}
